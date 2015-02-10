@@ -9,6 +9,10 @@
 
     <name>About PEEPS</name>
 
+    <icon src="ldpi.png" gap:platform="android" gap:qualifier="ldpi" />
+    <icon src="mdpi.png" gap:platform="android" gap:qualifier="mdpi" />
+    <gap:splash src="splash.png" />
+    
     <description>
         An anonymous discussion app 
     </description>
