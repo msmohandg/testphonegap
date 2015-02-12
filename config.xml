@@ -12,6 +12,7 @@
     <icon src="ldpi.png" gap:platform="android" gap:qualifier="ldpi" />
     <icon src="mdpi.png" gap:platform="android" gap:qualifier="mdpi" />
     <gap:splash src="splash.png" />
+    <gap:splash src="splash.png" gap:platform="ios" width="320" height="480" />
     
     <description>
         An anonymous discussion app 
